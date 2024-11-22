@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\bin\Debug\net8.0\ConversionHexadecimale.exe
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\bin\Debug\net8.0\ConversionHexadecimale.deps.json
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\bin\Debug\net8.0\ConversionHexadecimale.runtimeconfig.json
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\bin\Debug\net8.0\ConversionHexadecimale.dll
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\bin\Debug\net8.0\ConversionHexadecimale.pdb
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.dll
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\refint\ConversionHexadecimale.dll
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.pdb
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ConversionHexadecimale.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConversionHexadecimale\ConversionHexadecimale\obj\Debug\net8.0\ref\ConversionHexadecimale.dll
